@@ -13,9 +13,9 @@
 > Download [minecraft forge 1.12.2](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.2.html) ![Download Forge 1](./github_images/2.png)
 > Install Client
 > ![Download Forge 2](./github_images/3.png)
-> Wait...
-> Launch MC with forge
-> Exit out of MC
+> Wait... <break>
+> Launch MC with forge <break>
+> Exit out of MC <break>
 
 ### Step 3: Installing Mods
 
